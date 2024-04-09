@@ -2,15 +2,17 @@
 # yarn lockfile v1
 
 
-"@uirouter/core@5.0.18":
-  version "5.0.18"
-  resolved "https://registry.yarnpkg.com/@uirouter/core/-/core-5.0.18.tgz#6dd85654ebc7e25eba2c1b32f069829db351abab"
+"@uirouter/core@6.0.1":
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/@uirouter/core/-/core-6.0.1.tgz#93b02a5d178a7ab7313f34b7b3f019a000d23396"
+  integrity sha512-mHCutiHtDDRKYmrJ92XPKDoSb2bgqaDyUpHdF4hUE+riwgkCvGdBjL8u+VDTcV3slBAk6B0LBIOIajjWkkObbQ==
 
-"@uirouter/react@^0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@uirouter/react/-/react-0.7.0.tgz#3a98857bd5de1a19b6a551d74e8dd10cd7dc99e5"
+"@uirouter/react@^0.8.10":
+  version "0.8.10"
+  resolved "https://registry.yarnpkg.com/@uirouter/react/-/react-0.8.10.tgz#d801fafadf07aa0ff5c591f4771dd713a5129021"
+  integrity sha512-vr3f+BWGLOyDzaYb/CVmrNPmJcvE5DYtK4qfggWc8jL75uZoZC2aqTroQkxksBeEgTZ6YHJcSrzbGeqx0mvJmQ==
   dependencies:
-    "@uirouter/core" "5.0.18"
+    "@uirouter/core" "6.0.1"
     classnames "^2.2.5"
     prop-types "^15.6.1"
 
