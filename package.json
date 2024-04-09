@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@uirouter/core": "5.0.23",
-    "classnames": "^2.2.5",
+    "classnames": "^2.5.1",
     "prop-types": "^15.6.1"
   },
   "peerDependencies": {
